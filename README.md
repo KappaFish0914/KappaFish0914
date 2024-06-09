@@ -1,6 +1,8 @@
 
 发现一个好东西，可以自定义Github主页：
 
+https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md
+
 https://peterjxl.com/Git/200-GitHub-Profile-Beautify/#%E5%A6%82%E4%BD%95%E5%AE%9A%E5%88%B6
 
 ## Hi there 👋
