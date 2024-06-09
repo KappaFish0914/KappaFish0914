@@ -16,10 +16,12 @@ https://peterjxl.com/Git/200-GitHub-Profile-Beautify/#%E5%A6%82%E4%BD%95%E5%AE%9
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KappaFish0914)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KappaFish0914/KappaFish0914/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KappaFish0914/KappaFish0914/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KappaFish0914/KappaFish0914/output/github-contribution-grid-snake.svg">
 </picture>
+关于github action 和 workflows：
+https://docs.github.com/en/actions/quickstart
 
 <!--
 **KappaFish0914/KappaFish0914** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
