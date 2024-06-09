@@ -2,6 +2,12 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KappaFish0914)](https://github.com/anuraghazra/github-readme-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KappaFish0914)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KappaFish0914)
+
 <!--
 **KappaFish0914/KappaFish0914** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
